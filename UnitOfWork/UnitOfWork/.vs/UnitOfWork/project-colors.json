@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59a97d2c-2597-4612-b713-ff2a454ea000": {
+      "ProjectGuid": "59a97d2c-2597-4612-b713-ff2a454ea000",
+      "DisplayName": "UnitOfWorkDesignPattern",
+      "ColorIndex": 0
+    },
+    "f16984e4-c0b9-4d42-960c-3fef8dedbcfa": {
+      "ProjectGuid": "f16984e4-c0b9-4d42-960c-3fef8dedbcfa",
+      "DisplayName": "Read",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
